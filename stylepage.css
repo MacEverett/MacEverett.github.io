@@ -1,0 +1,19 @@
+h1{display: inline-block;
+  border: 20px solid black;
+  padding: 20px;
+  font-family: cursive;;
+  color: #33FFD7;
+  text-align: center;
+  font-size: 60px;
+  }
+li{font-family: Impact;
+color: #33FFD7;
+text-align:left;
+font-size: 24px;
+}
+a{
+  font-family: cursive;
+  color: #000000
+}
+ul{border: 5px solid black;
+width: 100px;}
